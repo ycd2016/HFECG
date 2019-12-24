@@ -14,10 +14,14 @@
 
 <https://scutmsc.club/hfecg/pretrained.tar.xz>
 
+PPT：
+
+<https://scutmsc.club/hfecg/otto.pptx>
+
 ##### 性能：
 
 ![](./perf.png)
 
 ##### 备注：
 
-这是我线下使用的最终方案，不是线上提交的方案，线上的方案是和队友融合后的
+这是我线下使用的方案，不是最终线上提交的方案，最终的方案是队长那个，见PPT
